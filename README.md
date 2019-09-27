@@ -1,4 +1,4 @@
-# IOS-Social-Application
+# IOS-Social-Application(Group Project)
 This application is an IOS application.
 Written in Swift. The backend is from firebase.
 # Socializing application 
